@@ -16,6 +16,7 @@ public class GithubCollab {
      */
     public static void main(String[] args) {
         System.out.print("Hello!  This is Mitchell");
+        System.out.println(", and this is Addison");
     }
     
 }
